@@ -7,6 +7,7 @@ Project has four modules:
   - queries.h operates queries 
   - responces.h - likewise
   - secfunctions.h includes secondary methods which STL library with RAD Studio XE7 didn't content when the project had been written
+  
 The main conceptions used in project:
   - blockchain protocol Proof of Validation
   - DHT decentralized protocol to exchange data between peers
